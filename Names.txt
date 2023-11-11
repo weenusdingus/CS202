@@ -1,2 +1,6 @@
 Names:
+<<<<<<< HEAD
 Remington Bassett
+=======
+Hunter Gormley
+>>>>>>> 3a2abe4476c84bd8abcde2dbe4433eed7b182388
